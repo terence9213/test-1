@@ -20,5 +20,9 @@ public class test
 		
 		System.out.println("Bleh");
 		
+		int answer = 42
+		
+		System.out.println("The answer to the question is " + answer);
+		
 	}
 }

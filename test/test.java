@@ -20,7 +20,9 @@ public class test
 		
 		System.out.println("Bleh");
 		
-		int answer = 42
+		int answer = 41;
+		
+		answer++;
 		
 		System.out.println("The answer to the question is " + answer);
 		
